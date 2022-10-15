@@ -31,7 +31,7 @@ const fileFilter = (req, file, cb) => {
 };
 
 const MONGO_URI =
-  "mongodb+srv://solomon:SomeMongo01@cluster0.a9rs5.mongodb.net/messages?retryWrites=true&w=majority";
+  "mongodb+srv://solomon:Nm!1@cluster0.a9rs5.mongodb.net/messages?retryWrites=true&w=majority";
 
 // app.use(bodyParser.urlencoded({extended:false})) // default for forms x-www-form-urlencoded
 
